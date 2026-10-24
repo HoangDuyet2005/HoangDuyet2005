@@ -49,6 +49,6 @@ Final-year student and member of the university's AI Lab (since 08/2024). My wor
 #### My GitHub contributions summary
 
 <p align="center">
-  <img width="53%" src="https://streak-stats.demolab.com?user=HoangDuyet2005&theme=github-dark-blue&background=0D1117&border=30363D&ring=F0883E&fire=F0883E&currStreakLabel=F0883E&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=9198A1&border_radius=8" alt="GitHub streak stats"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=HoangDuyet2005&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&card_width=350&theme=github_dark&bg_color=0d1117&border_color=30363d&border_radius=8&title_color=e6edf3&text_color=e6edf3&icon_color=f0883e" alt="GitHub stats"/>
+  <img width="54%" src="https://streak-stats.demolab.com?user=HoangDuyet2005&theme=github-dark-blue&background=0D1117&border=30363D&ring=F0883E&fire=F0883E&currStreakLabel=F0883E&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=9198A1&border_radius=8" alt="GitHub streak stats"/>
+  <img width="43.8%" src="https://github-readme-stats.vercel.app/api?username=HoangDuyet2005&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&card_width=350&theme=github_dark&bg_color=0d1117&border_color=30363d&border_radius=8&title_color=e6edf3&text_color=e6edf3&icon_color=f0883e" alt="GitHub stats"/>
 </p>
