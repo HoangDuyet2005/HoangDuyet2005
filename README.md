@@ -2,7 +2,7 @@
 
 Software Engineering student at **Hanoi University of Industry (HaUI)** 🟠🔵🟢
 
-Final-year student and member of the university's AI Lab (since 08/2024). My work so far is mainly in Document AI and web development.
+Final-year student and member of the university's AI Lab (since 08/2024). My work so far is mainly in Document AI, practical AI solutions and application development.
 
 ---
 
